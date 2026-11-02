@@ -1,0 +1,4 @@
+"case","profiles","highs_s","lpsolve_s","limit_min"
+"Baseline, reduced game",34992,1.35747408866882,38.625422000885,60
+"Baseline, full game",130321,4.17527508735657,667.016541004181,60
+"Five students, B = 2",45927,0.927260875701904,9.28039002418518,60
