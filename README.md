@@ -20,6 +20,7 @@ of Chapters 6, 8 and 9.
 | `02_robustness.R` | 50 value matrices with the baseline parameters | Table 7, Section 9.1 |
 | `03_scaling.R` | Varying the number of students, the number of seats and the bid budget | Sections 9.2 and 9.3 |
 | `04_figures.R` | Figures from `results/scaling.csv` | Figures 2–5 |
+| `05_solver_comparison.R` | Comparison of HiGHS with lpSolve (not reported in the thesis, requires the package `lpSolve`) | – |
 | `06_seven_students.R` | Single attempt with seven students | Section 9.3 |
 | `run_all.R` | Runs scripts 02 to 04 one after the other | – |
 | `results/` | Output of the scripts as CSV files | – |
