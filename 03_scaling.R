@@ -1,5 +1,5 @@
 # =====================================================================
-# 03  Scaling experiments (Section 9.2)
+# 03  Scaling experiments (Section 9.2, 9.3)
 #     One factor at a time, 50 seeds per configuration
 # =====================================================================
 source("cb_core.R")
